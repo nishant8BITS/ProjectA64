@@ -1,0 +1,36 @@
+.eventColor{
+  display:inline-block;
+  border-radius: 50%;
+}
+
+.eventColor--default,
+.eventColor--sm{
+  width:16px;
+  height:16px;
+}
+
+.eventColor--md{
+  width:24px;
+  height:24px;
+}
+
+.eventColor--lg{
+  width:32px;
+  height:32px;
+}
+
+.eventColor--red{
+  background-color: red;
+}
+
+.eventColor--blue{
+  background-color: blue;
+}
+
+.eventColor--default{
+  background-color: #eee;
+}
+
+
+
+
